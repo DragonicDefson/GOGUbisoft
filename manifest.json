@@ -1,0 +1,12 @@
+{
+    "name": "Galaxy Uplay plugin",
+    "platform": "uplay",
+    "guid": "afb5a69c-b2ee-4d58-b916-f4cd75d4999a",
+    "version": "0.55.5",
+    "description": "Galaxy Uplay plugin",
+    "author": "Friends of Galaxy",
+    "email": "friendsofgalaxy@gmail.com",
+    "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-uplay",
+    "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-uplay/master/current_version.json",
+    "script": "plugin.py"
+}
