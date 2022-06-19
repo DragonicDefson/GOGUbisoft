@@ -9,7 +9,7 @@ resides on a for you accessible place.
 Open the GOG Galaxy application, and if you've not done it yet, install the original Ubisoft integration, this can be done by using
 the search menu in the settings sub-menu.
 
-This will generate the uplay_ integration folder, followed by a random uid.
+This will generate the uplay_ integration folder, followed by a random uid.  
 Example: uplay_afb5a69c-b2ee-4d58-b916-f4cd75d4999a
 
 This folder can be found on a computer running a Windows operating system here:  
