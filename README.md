@@ -13,7 +13,7 @@ This will generate the uplay_ integration folder, followed by a random uid.
 Example: uplay_afb5a69c-b2ee-4d58-b916-f4cd75d4999a
 
 This folder can be found on a computer running a Windows operating system here:  
-Example: C:\Users\<your username>\AppData\Local\GOG.com\Galaxy\plugins\installed\uplay_afb5a69c-b2ee-4d58-b916-f4cd75d4999a
+Example: C:\Users\your username\AppData\Local\GOG.com\Galaxy\plugins\installed\uplay_afb5a69c-b2ee-4d58-b916-f4cd75d4999a
 
 # Installation step 3 (Replacing the files).
 Head over to the path in the example above, remember, the uplay_ prefix is always the same, but the uid differs.  
