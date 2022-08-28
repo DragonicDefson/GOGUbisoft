@@ -1,6 +1,9 @@
 # GOGUbisoft
 Fixed Ubisoft Connect integration for the GOG Galaxy application
 
+# Important notices (per request of @MisterOizo)
+Make sure to have GOG closed while replacing the integration.
+
 # Installation step 1 (Downloading the files, and extracting them).
 Download the repository files, and extract the .zip compressed file to a folder that
 resides on a for you accessible place.
